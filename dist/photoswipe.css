@@ -26,6 +26,10 @@
 	Styles for basic PhotoSwipe (pswp) functionality (sliding area, open/close transitions)
 */
 
+/*
+dit is aangepast door Hasan
+*/ 
+
 .pswp {
 	position: fixed;
 	top: 0;
@@ -36,7 +40,7 @@
 	display: none;
 	touch-action: none;
 	outline: 0;
-	opacity: 0.003;
+	opacity: 0.3;
 	contain: layout style size;
 	-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
